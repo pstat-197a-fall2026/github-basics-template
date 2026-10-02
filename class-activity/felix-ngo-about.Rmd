@@ -1,0 +1,14 @@
+---
+title: "FelixNgo-Aboutme"
+author: "Felix Ngo"
+date: "2026-10-01"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+I like to cook and bake a lot.
