@@ -1,0 +1,14 @@
+---
+title: "About Me"
+author: "Aaron Tang"
+date: "2026-10-01"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About Me
+
+Fun Fact: I love dogs!! 
