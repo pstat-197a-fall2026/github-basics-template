@@ -1,9 +1,0 @@
----
-title: "alison-gu-about"
-output: html_document
-date: "2026-10-01"
----
-
-
-# About Me
-I hiked half dome over the summer!
