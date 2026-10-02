@@ -3,3 +3,6 @@ title: "samantha-gibson-about"
 output: html_document
 ---
 
+## About Me
+
+I love the beach!
