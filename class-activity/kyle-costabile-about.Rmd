@@ -1,0 +1,13 @@
+---
+title: "Kyle-Costabile-about"
+author: "Kyle"
+date: "2026-10-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About Me
+I got into a car crash a month ago
