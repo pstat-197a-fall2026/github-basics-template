@@ -1,0 +1,8 @@
+---
+title: "alison-gu-about"
+output: html_document
+---
+
+
+# About Me
+I hiked half dome over the summer!
