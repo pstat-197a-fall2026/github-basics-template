@@ -1,0 +1,8 @@
+---
+title: "tyler-hoong-about"
+author: "Tyler Hoong"
+date: "2026-10-01"
+output: html_document
+---
+
+I love sushi

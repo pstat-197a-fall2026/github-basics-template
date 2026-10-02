@@ -1,0 +1,14 @@
+---
+title: "Untitled"
+author: "Sophia Leng"
+date: "2026-10-01"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## ABOUT ME 
+
+# Hi I'm Sophia, I draw sometimes.
