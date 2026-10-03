@@ -1,0 +1,9 @@
+---
+title: "AboutMe"
+output: html_document
+date: "2026-10-03"
+---
+
+#About Me
+
+My favorite color is red. 
