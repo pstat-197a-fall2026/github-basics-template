@@ -1,0 +1,10 @@
+---
+title: "About Me"
+author: "Luke Drushell"
+date: "2026-10-04"
+output: html_document
+---
+
+# About Me
+
+I like to play riichi mahjong.
