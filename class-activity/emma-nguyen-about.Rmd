@@ -1,0 +1,8 @@
+---
+title: "emma-nguyen-about"
+author: "Emma Nguyen"
+date: "2026-10-05"
+output: html_document
+---
+
+I have a white husky named Bubba! 
