@@ -1,0 +1,10 @@
+---
+title: "lily-nishizawa-about"
+author: "Lily Nishizawa"
+date: "2026-10-01"
+output: html_document
+---
+
+# About Me
+
+I like monkeys
