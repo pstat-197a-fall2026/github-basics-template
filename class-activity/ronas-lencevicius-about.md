@@ -1,3 +1,3 @@
 # About Me
 
-I like cats =^..^=
+I like cats =^..^= and photography [( ) ^ ]
